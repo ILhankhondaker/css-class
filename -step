@@ -2,11 +2,12 @@
 2 . create Css file 
 3 . link css file 
 4. Css ( class & ID )
-5. border ( size, type , color )
+5. border ( size, type , color ) https://www.w3schools.com/cssref/css_units.asp 
 6. Margin ( মার্জিন হচ্ছে কন্টেন্টের বাহিরে কাজ করে )
 7. Padding ( কন্টেন্টের এর ভিতরে কাজ করে )
 8. box model  (Margin, border, Padding,contetn) https://www.w3schools.com/css/css_boxmodel.asp 
 9. instpect element ( Ctrl+shift+i)
+10. Inline-block more information: https://www.w3schools.com/css/css_inline-block.asp 
 
 
 Github : 
