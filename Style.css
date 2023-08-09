@@ -1,0 +1,23 @@
+#navbar {
+
+    display: flex;
+    justify-content: center;
+}
+
+.menuitem {
+    margin-right: 10px;
+}
+
+.pg {
+    text-align: justify;
+}
+
+.home {
+    border: 2px dotted red;
+    /* margin: 30px; */
+    /* padding: 30px;
+    padding-bottom: 90px;
+    padding-right: 60px; */
+
+    padding: 30px 60px 90px 20px;
+}
