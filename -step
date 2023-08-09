@@ -7,3 +7,18 @@
 7. Padding ( কন্টেন্টের এর ভিতরে কাজ করে )
 8. box model  (Margin, border, Padding,contetn) https://www.w3schools.com/css/css_boxmodel.asp 
 9. instpect element ( Ctrl+shift+i)
+
+
+Github : 
+১।প্রথমে রিপোজিটোরি ক্রিয়েট করতে হবে 
+২। রিপোজিটোরির কোডগুলো টার্মিনালের পুষ করতে হবে । (vsCode terminal open =  Ctrl+j )
+
+৩। ফাইল সবগুলো আপলোড না হলে নিচের কমান্ডগুলো দিবো 
+   1. git add .
+   2. git commit -m"abc"
+   3. git push
+
+৪। প্রজেক্টের নিউ কোড লিখলে সেগুলো আপ্লোড করার জন্যও সেম এই তিনটি কোড পুষ করবো 
+   1. git add .
+   2.  git commit -m"abc" 
+   3. git push
